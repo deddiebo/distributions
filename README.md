@@ -29,7 +29,7 @@ sometimes variance (sigma squared) is used as a parameter
 - ### lognormal
 - ### exponential
 - ### geometric
-** parameter(p)  &emsp;  (probability of success of a single trial)
+**parameter(p)  &emsp;  (probability of success of a single trial)**
 1. Histogram of number of Bernoulli trials needed to get the first success
 2. Plot of Cumulative Distribution Function of an example
 3. Plot of Point Percent Function of an example
