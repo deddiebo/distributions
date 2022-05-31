@@ -17,7 +17,16 @@
 
 
 - ### normal
+**parameters(mu,sigma)  &emsp;  (mean, standard deviation)**
+sometimes variance (sigma squared) is used as a parameter
+1. Probability Density Function with standard deviations
+2. Cumulative Distribution Function with standard deviations
+3. Percent Point Function with selectable quantiles
+4. Using CDF to calculate the probability of being in a range
+5. Using PPF to calculate value below a percentile
 - ### lognormal
+
+
 - ### exponential
 - ### geometric
 - ### poisson
