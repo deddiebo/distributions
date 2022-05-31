@@ -12,7 +12,7 @@
 1. Plots of examples
 2. Histogram plot of n iterations of an example
 3. Probability Mass Function plot of an example
-4. Cumulative Density Function plot of an example
+4. Cumulative Distribution Function plot of an example
 5. Percent Point Function plot of an example
 
 
@@ -24,9 +24,15 @@ sometimes variance (sigma squared) is used as a parameter
 3. Percent Point Function with selectable quantiles
 4. Using CDF to calculate the probability of being in a range
 5. Using PPF to calculate value below a percentile
+
+
 - ### lognormal
-
-
 - ### exponential
 - ### geometric
+** parameter(p)  &emsp;  (probability of success of a single trial)
+1. Histogram of number of Bernoulli trials needed to get the first success
+2. Plot of Cumulative Distribution Function of an example
+3. Plot of Point Percent Function of an example
+
+
 - ### poisson
