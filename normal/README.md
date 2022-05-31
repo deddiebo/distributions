@@ -1,4 +1,4 @@
-## *BINOMIAL DISTRIBUTION - plots created from normal.ipynb Jupyter Notebook*
+## *NORMAL DISTRIBUTION - plots created from normal.ipynb Jupyter Notebook*
 
 ### **normal distribution probability density function**
 ![examples](normal_pdf.svg)
@@ -12,5 +12,5 @@
 ### **calculating probability of a range using CDF**
 ![cdf](normal_probrange.svg)
 
-### **calculating value less than a percentage using PPF**
+### **calculating values that are less than a given percentage using PPF**
 ![ppf](normal_ppfvalue.svg)
