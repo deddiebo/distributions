@@ -1,6 +1,6 @@
 # Random Distributions
 
-### *This as a repository of some of my learning and experimental coding of random distributions.*
+### *This is a repository of some of my learning and experimental coding of random distributions.*
 ### *All these programs can be run with various parameters to visualize the results.*
 ### They are in Jupyter Notebooks using Python and Matplotlab (plus some numpy and scipy)
 
