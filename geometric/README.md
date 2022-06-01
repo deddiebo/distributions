@@ -4,9 +4,9 @@
 ![histogram](geom_trials.svg)
 
 ### **plot of geometric cumulative distribution function**
-![cdf_plot](geom_cdf.svg)
+![cdf](geom_cdf.svg)
 
 ### **plot of geometric percent point function**
-![ppf_plot](geom_ppf.svg)
+![ppf](geom_ppf.svg)
 
 
