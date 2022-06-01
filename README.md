@@ -36,7 +36,7 @@ sometimes variance (sigma squared) is used as a parameter
 
 
 - ### poisson
-**parameter(lambda)  &emsp;  (number of independent events with a constant average in a given time period)
+**parameter(lambda)  &emsp;  (number of independent events with a constant average in a given time period)**
 1. Probability Mass Function plots of various examples of lambda values
 2. Cumulative Distribution Function plots of examples
 3. Percent Point Function plots of examples
