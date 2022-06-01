@@ -27,7 +27,19 @@ sometimes variance (sigma squared) is used as a parameter
 
 
 - ### lognormal
+- 
+- 
 - ### exponential
+
+
+ **parameters(lambda)  &emsp;  (rate)**
+1. Plots of examples
+2. Cumulative Distribution Function plot of examples
+3. Percent Point Function plot of examples
+4. Samples from an exponential distribution
+5. Histogram of samples
+
+
 - ### geometric
 **parameter(p)  &emsp;  (probability of success of a single trial)**
 1. Histogram of number of Bernoulli trials needed to get the first success
