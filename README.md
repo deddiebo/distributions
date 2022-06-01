@@ -27,12 +27,10 @@ sometimes variance (sigma squared) is used as a parameter
 
 
 - ### lognormal
-- 
-- 
+ 
+
 - ### exponential
-
-
- **parameters(lambda)  &emsp;  (rate)**
+ **parameter(lambda)  &emsp;  (rate)**
 1. Plots of examples
 2. Cumulative Distribution Function plot of examples
 3. Percent Point Function plot of examples
