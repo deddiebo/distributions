@@ -3,7 +3,7 @@
 ### **normal distribution probability density function**
 ![examples](normal_pdf.svg)
 
-### **cumulative density function**
+### **cumulative distribution function**
 ![histogram](normal_cdf.svg)
 
 ### **percentile point function**

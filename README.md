@@ -27,7 +27,12 @@ sometimes variance (sigma squared) is used as a parameter
 
 
 - ### lognormal
- 
+**parameters(mu,sigma)  &emsp;  (mean, standard deviation of log of data)**
+1. plots of examples
+2. Cumulative Distribution Function plot of examples
+3. Sampling a lognormal distribution. Taking ln(data) to bring it to normal
+4. Creating a lognormal distribution my multiplying random numbers
+5. Turning a normal distribution to lognormal by taking exp(data)
 
 - ### exponential
  **parameter(lambda)  &emsp;  (rate)**

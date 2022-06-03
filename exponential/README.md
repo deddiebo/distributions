@@ -3,7 +3,7 @@
 ### **exponential distribution probability density function**
 ![examples](expon_pdf.svg)
 
-### **cumulative density function**
+### **cumulative distribution function**
 ![cdf](expon_cdf.svg)
 
 ### **percentile point function**
