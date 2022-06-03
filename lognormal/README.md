@@ -4,13 +4,13 @@
 ![examples](lognorm_pdf.svg)
 
 ### **cumulative distribution function**
-![cdf](lognormal_cdf.svg)
+![cdf](lognorm_cdf.svg)
 
 ### **sampling a lognormal distribution - taking ln(data) to make it normal**
-![sample](lognormal_sample.svg)
+![sample](lognorm_sample.svg)
 
 ### **creating a lognormal distribution by multiplying random numbers**
-![mult](lognormal_mult.svg)
+![mult](lognorm_mult.svg)
 
 ### **turning a normal distribution into lognormal by exp(data) function**
-![exp](lognormal_exp.svg)
+![exp](lognorm_exp.svg)
