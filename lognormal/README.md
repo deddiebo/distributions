@@ -1,7 +1,7 @@
 ## *LOGNORMAL DISTRIBUTION - plots created from lognormal.ipynb Jupyter Notebook*
 
 ### **log normal distribution probability density function**
-![examples](lognormal_pdf.svg)
+![examples](lognorm_pdf.svg)
 
 ### **cumulative distribution function**
 ![cdf](lognormal_cdf.svg)
